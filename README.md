@@ -21,9 +21,9 @@ Vidoes: Different functionality of what the robot arm can do with the downloaded
 -- *Phase 2: Robotic Arm Tank Images* --
 // electrical and wiring
 ```
-Wired: Port 1: Back Server Motor for the back-right wheel
-       Port 2: Front Server Motor for the front-left wheel
-       Port 3: Vertical Server Motor for functionality to change the height of the arm with up and down motion
+Wired: Port 1: Back Servo Motor for the back-right wheel
+       Port 2: Front Servo Motor for the front-left wheel
+       Port 3: Vertical Servo Motor for functionality to change the height of the arm with up and down motion
        2 Cable wire for functionality of the claw to open and close
        Connected battery cable for power source
 ```
