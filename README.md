@@ -9,6 +9,8 @@ Makeblock Help Center -> https://support.makeblock.com/hc/en-us/sections/3600017
 
 Assembly Instructions for Ultimate 2.0 (Seven Additional Forms) -> https://support.makeblock.com/hc/en-us/articles/4407485229335-Assembly-Instructions-for-Ultimate-2-0-Seven-Additional-Forms
 
+Program Ultimate 2.0 in Arduino -> https://support.makeblock.com/hc/en-us/articles/1500003548142-Program-Ultimate-2-0-in-Arduino
+
 -- *Phase 3: Test* --
 // pre-coded software 
 ```
