@@ -13,7 +13,9 @@ Makeblock Help Center -> https://support.makeblock.com/hc/en-us/sections/3600017
 Vidoes: Different functionality of what the robot arm can do with the downloaded mobile app 
 ```
 [![](https://markdown-videos-api.jorgenkh.no/youtube/r2Qvha4MfTY/)](https://youtu.be/r2Qvha4MfTY) 
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/dcb649UFilM/)](https://youtu.be/dcb649UFilM)
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/CFL8jcd0rSs/)](https://youtu.be/CFL8jcd0rSs)
 
 -- *Phase 2: Robotic Arm Tank Images* --
