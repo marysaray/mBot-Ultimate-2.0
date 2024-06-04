@@ -7,6 +7,8 @@ Makeblock Coding Software/Apps -> https://www.makeblock.com/pages/software
 
 Makeblock Help Center -> https://support.makeblock.com/hc/en-us/sections/360001778514-Ultimate-2-0
 
+Assembly Instructions for Ultimate 2.0 (Seven Additional Forms) -> https://support.makeblock.com/hc/en-us/articles/4407485229335-Assembly-Instructions-for-Ultimate-2-0-Seven-Additional-Forms
+
 -- *Phase 3: Test* --
 // pre-coded software 
 ```
